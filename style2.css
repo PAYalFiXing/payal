@@ -7,7 +7,7 @@
   .hero {
     position: relative;
     height: 100vh;
-    background: url('load.jpg') no-repeat center center;
+    background: url('stadium2.jpg') no-repeat center center;
     background-size: cover;
     display: flex;
     flex-direction: column;
